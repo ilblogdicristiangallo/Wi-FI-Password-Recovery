@@ -54,7 +54,7 @@ The script automatically creates a text file named after the selected WiFi netwo
 
 <pre>MyHomeWiFi.txt</pre>
 
-# EXE Version Explanation
+# EXE Version Explanation (100% False positive)
 The .exe version is generated from the same Python script using tools like PyInstaller.
 It behaves exactly like the Python version but offers several advantages:
 
